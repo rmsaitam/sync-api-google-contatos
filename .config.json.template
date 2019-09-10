@@ -1,0 +1,8 @@
+{
+    "clientID": "CLIENT-ID-GOOGLE",
+    "clientSecret": "CLIENT-SECRET-GOOGLE",
+    "redirectUri": "",
+    "developerKey": "",
+    "refreshToken": ""
+}
+
